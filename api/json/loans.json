@@ -1,0 +1,1982 @@
+[
+    {
+      "id": "658534d5a7ed6375da17b688",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Education",
+      "riskRating": "A",
+      "borrower": {
+        "id": 101,
+        "name": "Kimberly Michael",
+        "email": "kimberlymichael@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d55ec4c4a8148d8209",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Others",
+      "riskRating": "C",
+      "borrower": {
+        "id": 101,
+        "name": "Campos Pace",
+        "email": "campospace@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d584fe814b4f9bbf9a",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Others",
+      "riskRating": "B",
+      "borrower": {
+        "id": 101,
+        "name": "Wilkins Warren",
+        "email": "wilkinswarren@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d50fa2ccf0c53fc268",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Education",
+      "riskRating": "B",
+      "borrower": {
+        "id": 101,
+        "name": "Cabrera Randall",
+        "email": "cabrerarandall@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d566557a97ef21e098",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Others",
+      "riskRating": "B",
+      "borrower": {
+        "id": 101,
+        "name": "Hall Robertson",
+        "email": "hallrobertson@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d5a7f3cefcaf189224",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Others",
+      "riskRating": "A",
+      "borrower": {
+        "id": 101,
+        "name": "Lessie Reynolds",
+        "email": "lessiereynolds@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d550f849b360dd3e0c",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Education",
+      "riskRating": "C",
+      "borrower": {
+        "id": 101,
+        "name": "Nieves Sims",
+        "email": "nievessims@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d578a96161211cb92b",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Others",
+      "riskRating": "C",
+      "borrower": {
+        "id": 101,
+        "name": "Andrea Stanton",
+        "email": "andreastanton@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d58e2207928b80929f",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Business Expansion",
+      "riskRating": "A",
+      "borrower": {
+        "id": 101,
+        "name": "Dale Baird",
+        "email": "dalebaird@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d55efbb1bfb39c29c5",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Business Expansion",
+      "riskRating": "B",
+      "borrower": {
+        "id": 101,
+        "name": "Janie Kirk",
+        "email": "janiekirk@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d533098abd3a6d74e0",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Home Improvement",
+      "riskRating": "A",
+      "borrower": {
+        "id": 101,
+        "name": "Austin Mccormick",
+        "email": "austinmccormick@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d57ee08b2c1519ad4d",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Business Expansion",
+      "riskRating": "B",
+      "borrower": {
+        "id": 101,
+        "name": "Campbell Stein",
+        "email": "campbellstein@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d589d9cd760132ccb5",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Business Expansion",
+      "riskRating": "A",
+      "borrower": {
+        "id": 101,
+        "name": "Deanna Bell",
+        "email": "deannabell@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d5cfab920da237f834",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Business Expansion",
+      "riskRating": "C",
+      "borrower": {
+        "id": 101,
+        "name": "Oneil Molina",
+        "email": "oneilmolina@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d55a62a52b21438242",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Education",
+      "riskRating": "C",
+      "borrower": {
+        "id": 101,
+        "name": "Millie Church",
+        "email": "milliechurch@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d52ef1a4d80bae619b",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Home Improvement",
+      "riskRating": "C",
+      "borrower": {
+        "id": 101,
+        "name": "Catherine Perez",
+        "email": "catherineperez@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d5c60bedb6ade1c0b0",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Others",
+      "riskRating": "A",
+      "borrower": {
+        "id": 101,
+        "name": "Spence Herring",
+        "email": "spenceherring@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d5c6a11212146ea803",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Business Expansion",
+      "riskRating": "C",
+      "borrower": {
+        "id": 101,
+        "name": "Mclean Good",
+        "email": "mcleangood@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d5563a86e8ce11df5a",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Home Improvement",
+      "riskRating": "B",
+      "borrower": {
+        "id": 101,
+        "name": "Carson Delacruz",
+        "email": "carsondelacruz@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d539b40cbf1093fe32",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Others",
+      "riskRating": "B",
+      "borrower": {
+        "id": 101,
+        "name": "Bell Holland",
+        "email": "bellholland@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d5329f874c54efb873",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Education",
+      "riskRating": "A",
+      "borrower": {
+        "id": 101,
+        "name": "Clemons Scott",
+        "email": "clemonsscott@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d57858fe867549e1ca",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Business Expansion",
+      "riskRating": "C",
+      "borrower": {
+        "id": 101,
+        "name": "Dorthy Pratt",
+        "email": "dorthypratt@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d52f4420c22b3413b5",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Home Improvement",
+      "riskRating": "A",
+      "borrower": {
+        "id": 101,
+        "name": "Shelia Allison",
+        "email": "sheliaallison@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d58811cf43f8b5512f",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Home Improvement",
+      "riskRating": "A",
+      "borrower": {
+        "id": 101,
+        "name": "Lynn Colon",
+        "email": "lynncolon@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d5fdac5a82e5d68105",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Business Expansion",
+      "riskRating": "B",
+      "borrower": {
+        "id": 101,
+        "name": "June Massey",
+        "email": "junemassey@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d5e97dfcf7acfee769",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Education",
+      "riskRating": "A",
+      "borrower": {
+        "id": 101,
+        "name": "Booker Tyson",
+        "email": "bookertyson@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d56022a1330f46a0c0",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Business Expansion",
+      "riskRating": "B",
+      "borrower": {
+        "id": 101,
+        "name": "Michele Bean",
+        "email": "michelebean@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d5a6326fb2c2fdacd1",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Business Expansion",
+      "riskRating": "B",
+      "borrower": {
+        "id": 101,
+        "name": "Gabriela Wilkins",
+        "email": "gabrielawilkins@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d543a0ff81a9634d95",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Business Expansion",
+      "riskRating": "C",
+      "borrower": {
+        "id": 101,
+        "name": "Dotson Dawson",
+        "email": "dotsondawson@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d5d7e9407e3a2fb74b",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Others",
+      "riskRating": "A",
+      "borrower": {
+        "id": 101,
+        "name": "Casey Hansen",
+        "email": "caseyhansen@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d55f29d4f296e110c9",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Home Improvement",
+      "riskRating": "A",
+      "borrower": {
+        "id": 101,
+        "name": "Lynne Alvarez",
+        "email": "lynnealvarez@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d5808ca6ff0263b6d6",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Education",
+      "riskRating": "B",
+      "borrower": {
+        "id": 101,
+        "name": "Workman Maxwell",
+        "email": "workmanmaxwell@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d5df2933f5c7d1bada",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Business Expansion",
+      "riskRating": "A",
+      "borrower": {
+        "id": 101,
+        "name": "Irma Gallagher",
+        "email": "irmagallagher@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d50d1b8835556bfdf6",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Others",
+      "riskRating": "A",
+      "borrower": {
+        "id": 101,
+        "name": "Mcconnell Duncan",
+        "email": "mcconnellduncan@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d5e9d880ac548ff212",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Education",
+      "riskRating": "A",
+      "borrower": {
+        "id": 101,
+        "name": "Felicia Knight",
+        "email": "feliciaknight@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d5f2a6f9aa5c46c1e4",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Education",
+      "riskRating": "A",
+      "borrower": {
+        "id": 101,
+        "name": "Bond Combs",
+        "email": "bondcombs@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d58c761082e9a87c19",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Home Improvement",
+      "riskRating": "C",
+      "borrower": {
+        "id": 101,
+        "name": "Klein Farmer",
+        "email": "kleinfarmer@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d5c54c8a3f23a65573",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Home Improvement",
+      "riskRating": "A",
+      "borrower": {
+        "id": 101,
+        "name": "Gloria Cruz",
+        "email": "gloriacruz@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d559866a831c185a21",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Home Improvement",
+      "riskRating": "B",
+      "borrower": {
+        "id": 101,
+        "name": "Summer Bailey",
+        "email": "summerbailey@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d51c4864b90ddf540c",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Business Expansion",
+      "riskRating": "C",
+      "borrower": {
+        "id": 101,
+        "name": "Madden Paul",
+        "email": "maddenpaul@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d5196960870b49e6f4",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Home Improvement",
+      "riskRating": "A",
+      "borrower": {
+        "id": 101,
+        "name": "Ochoa Fitzgerald",
+        "email": "ochoafitzgerald@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d54ca2d6063a3030a5",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Education",
+      "riskRating": "B",
+      "borrower": {
+        "id": 101,
+        "name": "Freeman Dale",
+        "email": "freemandale@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d5ab09e5f80411d0c6",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Business Expansion",
+      "riskRating": "B",
+      "borrower": {
+        "id": 101,
+        "name": "Florence Saunders",
+        "email": "florencesaunders@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d522fbd0afce6117f7",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Business Expansion",
+      "riskRating": "C",
+      "borrower": {
+        "id": 101,
+        "name": "Georgia Moon",
+        "email": "georgiamoon@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d59356b8262f01bd14",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Business Expansion",
+      "riskRating": "B",
+      "borrower": {
+        "id": 101,
+        "name": "Michael Shaffer",
+        "email": "michaelshaffer@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d550286ddcf5348309",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Business Expansion",
+      "riskRating": "C",
+      "borrower": {
+        "id": 101,
+        "name": "April Prince",
+        "email": "aprilprince@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d5c08c3de121890178",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Home Improvement",
+      "riskRating": "C",
+      "borrower": {
+        "id": 101,
+        "name": "Claudine Wooten",
+        "email": "claudinewooten@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d53ce3600930214120",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Home Improvement",
+      "riskRating": "B",
+      "borrower": {
+        "id": 101,
+        "name": "Ferguson Roberts",
+        "email": "fergusonroberts@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d5585425ff0220f0f4",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Home Improvement",
+      "riskRating": "B",
+      "borrower": {
+        "id": 101,
+        "name": "Lucile Rios",
+        "email": "lucilerios@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d53bd755a48654a3ca",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Business Expansion",
+      "riskRating": "B",
+      "borrower": {
+        "id": 101,
+        "name": "Esmeralda Dennis",
+        "email": "esmeraldadennis@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d5a3d962edc28fa5ad",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Business Expansion",
+      "riskRating": "B",
+      "borrower": {
+        "id": 101,
+        "name": "Gladys Sanford",
+        "email": "gladyssanford@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d5fdb10521c164e133",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Business Expansion",
+      "riskRating": "C",
+      "borrower": {
+        "id": 101,
+        "name": "Ruiz Price",
+        "email": "ruizprice@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d5b46ae3f0bc888996",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Education",
+      "riskRating": "B",
+      "borrower": {
+        "id": 101,
+        "name": "Robbins Warner",
+        "email": "robbinswarner@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d51b96184ce0d5e22d",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Business Expansion",
+      "riskRating": "A",
+      "borrower": {
+        "id": 101,
+        "name": "Rodriquez Kelly",
+        "email": "rodriquezkelly@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    },
+    {
+      "id": "658534d504eed12e4953b1b4",
+      "amount": 5000,
+      "interestRate": 0.8,
+      "term": 12,
+      "purpose": "Business Expansion",
+      "riskRating": "C",
+      "borrower": {
+        "id": 101,
+        "name": "Morales Padilla",
+        "email": "moralespadilla@toyletry.com",
+        "creditScore": 750
+      },
+      "collateral": {
+        "type": "Real Estate",
+        "value": 100000
+      },
+      "documents": [
+        {
+          "type": "Income Statement",
+          "url": "/loans/documents/income_statement/slip-gaji-karyawan-pertamina.jpeg"
+        }
+      ],
+      "repaymentSchedule": {
+        "installments": [
+          {
+            "dueDate": "2023-01-15",
+            "amountDue": 500
+          },
+          {
+            "dueDate": "2023-02-15",
+            "amountDue": 500
+          }
+        ]
+      }
+    }
+  ]
